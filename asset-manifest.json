@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/MIN0225/MovieApp/static/js/main.9d39285b.js",
-    "index.html": "/MIN0225/MovieApp/index.html",
-    "main.9d39285b.js.map": "/MIN0225/MovieApp/static/js/main.9d39285b.js.map"
+    "main.js": "/MovieApp/static/js/main.9d39285b.js",
+    "index.html": "/MovieApp/index.html",
+    "main.9d39285b.js.map": "/MovieApp/static/js/main.9d39285b.js.map"
   },
   "entrypoints": [
     "static/js/main.9d39285b.js"
